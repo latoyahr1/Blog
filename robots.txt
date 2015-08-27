@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://latoyahr1.github.io/blog/sitemap.xml 
