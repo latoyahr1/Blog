@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Blog Four"
+date: 2015-07-10 11:49:05 -0500
+comments: true
+categories: 
+---
+week four is finally over. time is starting to go by really fast. thanks to both the awesome teachers and the helpful class mates im getting through this.
